@@ -19,4 +19,8 @@ A production-ready application built during my FlyRank Backend AI Engineering in
 
 ```bash
 git clone https://github.com/muzzammilahmed18/assignment-environment-and-aitoolchain.git
-cd capstone-project
+cd capstone-project"" 
+"## Setup Instructions" 
+"1. Clone the repository" 
+"2. Install dependencies" 
+"3. Run the application" 
