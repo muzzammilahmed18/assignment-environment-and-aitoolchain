@@ -1,26 +1,63 @@
-# Capstone Project
+# Environment and AI Toolchain
 
-A production-ready application built during my FlyRank Backend AI Engineering internship.
+A repository demonstrating a working development environment and AI-assisted toolchain setup for the FlyRank program.
 
 ## 🚀 Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Git version control with Conventional Commits
+- AI assistant integration (Claude Desktop)
+- Proper repository structure
+- Standard development conventions
 
-## 🛠️ Tech Stack
+## 🛠️ Tools Used
 
-- Python / Node.js
-- FastAPI / Express
-- PostgreSQL / SQLite
-- Docker
+- **Version Control:** Git
+- **Editor:** VS Code
+- **AI Assistant:** Claude Desktop
+- **Runtime:** Node.js 20+
+
+## 📋 Prerequisites
+
+- Git
+- Node.js 20+
+- VS Code (or Cursor)
+- Claude Desktop app
 
 ## 🔧 Setup
 
+### Clone the Repository
+
 ```bash
 git clone https://github.com/muzzammilahmed18/assignment-environment-and-aitoolchain.git
-cd capstone-project"" 
-"## Setup Instructions" 
-"1. Clone the repository" 
-"2. Install dependencies" 
-"3. Run the application" 
+cd assignment-environment-and-aitoolchain
+Install Dependencies (if applicable)
+bash
+npm install
+
+📂 Project Structure
+assignment-environment-and-aitoolchain/
+├── src/                     # Source files
+├── screenshots/             # Screenshots
+├── .gitignore               # Git ignore rules
+├── CLAUDE.md                # AI assistant context
+├── LICENSE                  # MIT License
+└── README.md                # Documentation
+📝 Commit Convention
+
+This repo uses Conventional Commits:
+
+feat: add new feature
+fix: resolve bug
+docs: update documentation
+chore: maintenance task
+refactor: improve code structure
+test: add tests
+
+🤝 Contributing
+This is a personal assignment repo and is not open to contributions.
+
+📝 License
+MIT License - see the LICENSE file for details.
+
+👨‍💻 Author
+Muzzammil Ahmed
